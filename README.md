@@ -192,4 +192,4 @@ This repository serves as the official landing page for **Spectronaut**. The sof
 **Get the most recent version of Spectronaut today!**
 
 ---
-**Last updated:** 2026-11-08 11:40:13 UTC
+**Last updated:** 2026-11-08 17:33:29 UTC
